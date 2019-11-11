@@ -1,0 +1,20 @@
+{
+    "name": "test-ql",
+    "title": "test-ql",
+    "description": "",
+    "repository": {
+        "url": "https://github.com/qiaoli900311/test-ql.git",
+        "private": 1,
+        "auth": {
+            "username": "qiaoli900311",
+            "password": "48111400qiaoli"
+        }
+    },
+    "map": {
+        "components": [],
+        "blocks": [],
+        "pages": [],
+        "templates": []
+    },
+    "materialId": 105
+}
