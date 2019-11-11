@@ -1,20 +1,37 @@
 {
-    "name": "test-ql",
-    "title": "test-ql",
-    "description": "",
-    "repository": {
-        "url": "https://github.com/qiaoli900311/test-ql.git",
-        "private": 1,
-        "auth": {
-            "username": "qiaoli900311",
-            "password": "48111400qiaoli"
-        }
-    },
-    "map": {
-        "components": [],
-        "blocks": [],
-        "pages": [],
-        "templates": []
-    },
-    "materialId": 105
+	"name": "test-ql",
+	"title": "test-ql",
+	"description": "",
+	"repository": {
+		"url": "https://github.com/qiaoli900311/test-ql.git",
+		"private": 1,
+		"auth": {
+			"username": "qiaoli900311",
+			"password": "48111400qiaoli"
+		}
+	},
+	"map": {
+		"components": [
+			{
+				"name": "test-ql-",
+				"version": "1.0.0",
+				"title": "test-ql-title",
+				"description": "miaoshu",
+				"type": "component",
+				"platform": [
+					"PC"
+				],
+				"homePage": "/materials/105/dist4066b22d2617c356f2b0ce81011719cd/index.html/index.html",
+				"category": "布局",
+				"screenshot": "/screenshots/4066b22d2617c356f2b0ce81011719cd.png",
+				"path": "components/TestQl",
+				"origin": "https://github.com/qiaoli900311/test-ql.git",
+				"hash": "4066b22d2617c356f2b0ce81011719cd"
+			}
+		],
+		"blocks": [],
+		"pages": [],
+		"templates": []
+	},
+	"materialId": 105
 }
